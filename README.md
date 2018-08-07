@@ -1,8 +1,11 @@
+![Image](src)
+
 ## Welcome to Prestige Worldwide Inc.
 
-You can use the [editor on GitHub](https://github.com/petervdalton/PrestigeWorldwide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the home page for Visitors & Leads to start a conversation with the Prestige Team. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Those lucky enough to already be registered, log in and see what how Worldwide we really are!
+
 
 ### Markdown
 
