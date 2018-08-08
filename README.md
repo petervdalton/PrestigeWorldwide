@@ -4,7 +4,7 @@
 
 This is the home page for Visitors & Leads to start a conversation with the Prestige Team. 
 
-Those lucky enough to already be registered, log in and see what how Worldwide we really are!
+Those lucky enough to already be registered, log in <a href="https://petervdalton.github.io/PrestigeWorldwiders/">PRESTIGE</a> and see how Worldwide we really are.
 
 <script>
   window.intercomSettings = {
